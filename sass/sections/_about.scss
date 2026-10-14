@@ -1,0 +1,49 @@
+.about-all {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.introduction {
+    width: 500px;
+    margin-left: 200px;
+    line-height: 1.7;
+    color: #4D533C;
+    font-size: 20px;
+}
+
+.addition {
+    font-size: 20px;
+    color: #21384260;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.span.highlight, 
+span.highlight {
+  background-color: #998D8160;
+  padding: 2px 6px;
+}
+
+.poster {
+    width: 474px;
+    height: 500px;
+    margin-right: 200px;
+    background-color: #ffffff;
+    box-shadow: 0 0 30px rgba(0, 0, 2, 0.375);
+}
+
+.tir-headline {
+    color: #4D533C;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 23px;
+    padding: 30px;
+    margin-top: 30px;
+    line-height: 1.7;
+}
+
+.poster-img {
+   margin-top: 30px;
+}
+

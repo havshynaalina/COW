@@ -3,3 +3,13 @@
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
 }
+
+.hero-banner {
+    width: 100%;
+    min-height: 85vh;
+    background-image: url("/img/Bg.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 100px;
+}
